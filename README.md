@@ -21,10 +21,10 @@
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **저장소** — [github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame) (Private)
 
-### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.22(금) 기준)
-- Orbit War 225/2085 (상위 10.8%, 동메달)
-- Connect X 10/395 (상위 2.5%)
-- Predicting F1 Pit Stops 219/2117 (상위 10.3%)
+### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.23(토) 기준)
+- Orbit War 187/3135 (상위 6.0%, 동메달)
+- Connect X 5/405 (상위 1.2%)
+- Predicting F1 Pit Stops 42/2026 (상위 2.1%)
 - LLM Classification Finetuning 35/282 (상위 12.4%)
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -54,7 +54,7 @@
 
 </details>
 
-### ② 2026 — 청소년 IT 경시대회 알고리즘 고등부 금상(2등, 한국정보기술진흥원)
+### ② 2026 — 청소년 IT 경시대회 알고리즘 고등부 금상(3등, 한국정보기술진흥원)
 - 제6회 청소년 IT 경시대회 (알고리즘 고등부), 알고리즘 설계 및 구현 능력 평가
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
