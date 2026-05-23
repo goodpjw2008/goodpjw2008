@@ -22,10 +22,14 @@
 - **저장소** — [github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame) (Private)
 
 ### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.23(토) 기준)
-- Orbit War 187/3135 (상위 6.0%, 동메달)
-- Connect X 5/405 (상위 1.2%)
-- Predicting F1 Pit Stops 42/2026 (상위 2.1%)
-- LLM Classification Finetuning 35/282 (상위 12.4%)
+- [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 187/3135 (상위 6.0%, 동메달)
+  - 우주 위성 자원 점령 AI 멀티에이전트 대결
+- [Connect X](https://www.kaggle.com/competitions/connectx) 5/405 (상위 1.2%)
+  - Connect Four 게임 AI 봇 대결
+- [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) 42/2026 (상위 2.1%)
+  - F1 그랑프리 피트스톱 횟수 예측 모델
+- [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) 35/282 (상위 12.4%)
+  - LLM 미세조정 텍스트 분류 모델 개발
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
