@@ -25,26 +25,42 @@
 - [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 187/3135 (상위 6.0%, 동메달)
   - 대회개요 : 우주 위성 자원 점령 AI 멀티에이전트 대결
   - 데이터학습 및 AI 기법 : Neural Network를 이용하여 우월 움직임 데이터를 분석하고 NN학습으로 사용하여 상위권 랭크
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_Orbit_War.png" alt="Kaggle Orbit War" width="720"/>
+
+  </details>
+
 - [Connect X](https://www.kaggle.com/competitions/connectx) 5/405 (상위 1.2%)
   - 대회개요 : Connect Four 게임 AI 봇 대결
   - 데이터학습 및 AI 기법 : MCTS 기법 및 Neural Network를 사용하여 각 포지션의 유리함과 불림함 데이터 분석을 사용하여 상위권 랭크
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_ConnectX.png" alt="Kaggle Connect X" width="720"/>
+
+  </details>
+
 - [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) 42/2026 (상위 2.1%)
   - 대회개요 : F1 그랑프리 피트스톱 횟수 예측 모델
   - 데이터학습 및 AI 기법 : CatBoost, LightGBM, 피처엔지니어링의 나의 결과와 상위권의 데이터 분석 결과 분석 블랜딩 기법으로 상위권 랭크
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_Predicting_F1.png" alt="Kaggle Predicting F1 Pit Stops" width="720"/>
+
+  </details>
+
 - [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) 35/282 (상위 12.4%)
   - 대회개요 : 두 LLM 응답 데이터를 PEFT 파인튜닝하여 인간 선호 예측
   - 데이터학습 및 AI 기법 : Gemma-2-9B 4-bit QLoRA 부분 PEFT 파인튜닝
 
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
+  <img src="./projects/kaggle_LLM_Classification.png" alt="Kaggle LLM Classification Finetuning" width="720"/>
 
-<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
-
-<img src="./projects/Kaggle_Orbit_War.png" alt="Kaggle Orbit War" width="720"/>
-<img src="./projects/Kaggle_ConnectX.png" alt="Kaggle Connect X" width="720"/>
-<img src="./projects/Kaggle_Predicting_F1.png" alt="Kaggle Predicting F1 Pit Stops" width="720"/>
-<img src="./projects/kaggle_LLM_Classification.png" alt="Kaggle LLM Classification Finetuning" width="720"/>
-
-</details>
+  </details>
 
 ### ⑤ AI 코딩 선생님과 함께하는 온라인 코딩 학습 플랫폼 구현
 - **주요내용** — 생성형 AI 코딩 선생님이 도와주는 중·고등학생용 온라인 저지(OJ) 학습 플랫폼 개발
