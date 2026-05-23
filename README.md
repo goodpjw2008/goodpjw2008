@@ -201,16 +201,7 @@
 
 </details>
 
-### ③ 2026 — KAIST 사이버영재교육 데이터사이언스 과정
-- A등급: 90점 / 학급 평균: 56점, Python과 오픈데이터를 활용한 데이터 분석 학습, 데이터 전처리 및 시각화 기초 경험
-
-<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
-
-<img src="./learning/kaist_cybergifted_portfolio.jpg" alt="KAIST 사이버영재교육 포트폴리오" width="720"/>
-
-</details>
-
-### ④ 2026 — 국제정보올림피아드(IOI) 겨울학교
+### ③ 2026 — 국제정보올림피아드(IOI) 겨울학교
 - 심화 알고리즘 및 논리적 문제 해결 훈련, 효율적인 코드 구현 및 사고력 강화, 경쟁 프로그래밍 기반 학습 경험
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -219,12 +210,21 @@
 
 </details>
 
-### ⑤ 2025 — 국제정보올림피아드(IOI) 여름학교
+### ④ 2025 — 국제정보올림피아드(IOI) 여름학교
 - 알고리즘 및 문제 해결 기초 학습, 자료구조와 구현 중심 프로그래밍 경험, PS(Problem Solving) 역량 강화
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
 <img src="./learning/ioi_summer_school.jpg" alt="IOI 여름학교" width="720"/>
+
+</details>
+
+### ⑤ 2023 — KAIST 사이버영재교육 데이터사이언스 과정
+- A등급: 90점 / 학급 평균: 56점, Python과 오픈데이터를 활용한 데이터 분석 학습, 데이터 전처리 및 시각화 기초 경험
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./learning/kaist_cybergifted_portfolio.jpg" alt="KAIST 사이버영재교육 포트폴리오" width="720"/>
 
 </details>
 
