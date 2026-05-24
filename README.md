@@ -9,17 +9,17 @@
 ### ① 자원제약 환경용 PST·NNUE 하이브리드 체스 AI 설계 및 모델 개발
 - **주요내용** — 평가함수 4종(PST, NN V1·V2, NNUE)과 탐색 알고리즘 2종(α-β·MCTS)을 조합·비교하여, CPU·오프라인 환경에서 동작하는 PST·NNUE 하이브리드 체스 AI를 설계 및 모델 구현
 - **프로젝트보고서** — [자원제약_환경용_PST·NNUE_하이브리드_체스_AI_설계_및_모델_개발.pdf](./projects/자원제약_환경용_PST·NNUE_하이브리드_체스_AI_설계_및_모델_개발.pdf)
-- **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-Hybrid](https://github.com/goodpjw2008/Project_AI-ChessBot-Hybrid) (Private)
+- **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-Hybrid](https://github.com/goodpjw2008/Project_AI-ChessBot-Hybrid)
 
 ### ② 체스에 관한 인공지능과 알고리즘 탐구(탐색 알고리즘 및 PST 모델 개선)
 - **주요내용** — 체스 인공지능에 BFS·Minimax·α-β 가지치기 등 휴리스틱 알고리즘을 개선하고 PST 평가 모델을 개선하여 성능을 비교
 - **프로젝트보고서** — [체스에_관한_인공지능과_알고리즘_탐구.pdf](./projects/체스에_관한_인공지능과_알고리즘_탐구.pdf)
-- **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-PST](https://github.com/goodpjw2008/Project_AI-ChessBot-PST) (Private)
+- **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-PST](https://github.com/goodpjw2008/Project_AI-ChessBot-PST)
 
 ### ③ AI 봇 2종 구현 및 국제 플랫폼 최상위권 성적 달성
 - **주요내용** — 글로벌 AI·코딩 Bot 경진 플랫폼 CodinGame에서 직접 설계한 AI 봇 2종으로 한국 1위, 글로벌 Top 0.2% 달성, AI 부문과 Coding Speed 부문에서 Legend 등급
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
-- **저장소** — [github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame) (Private)
+- **저장소** — [github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
 ### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.24(일) 기준)
 - [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 142/3158 (상위 4.5%, 은메달)
@@ -65,8 +65,7 @@
 ### ⑤ AI 코딩 선생님과 함께하는 온라인 코딩 학습 플랫폼 구현
 - **주요내용** — 생성형 AI 코딩 선생님이 도와주는 중·고등학생용 온라인 저지(OJ) 학습 플랫폼 개발
 - **프로젝트보고서** — [AI_코딩_선생님과_함께하는_온라인_코딩_학습_플랫폼_구현.pdf](./projects/AI_코딩_선생님과_함께하는_온라인_코딩_학습_플랫폼_구현.pdf)
-- **저장소** — [github.com/goodpjw2008/Project_AI-DimiOJ](https://github.com/goodpjw2008/Project_AI-DimiOJ) (Private)
-
+- **저장소** — [github.com/goodpjw2008/Project_AI-DimiOJ](https://github.com/goodpjw2008/Project_AI-DimiOJ)
 ---
 
 # 2. 수상이력
