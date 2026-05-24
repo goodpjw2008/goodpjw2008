@@ -21,10 +21,10 @@
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **저장소** — [github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame) (Private)
 
-### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.23(토) 기준)
-- [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 187/3135 (상위 6.0%, 동메달)
+### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.24(일) 기준)
+- [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 142/3158 (상위 4.5%, 은메달)
   - 대회개요 : 우주 위성 자원 점령 AI 멀티에이전트 대결
-  - 데이터학습 및 AI 기법 : Neural Network를 이용하여 우월 움직임 데이터를 분석하고 NN학습으로 사용하여 상위권 랭크
+  - 데이터학습 및 AI 기법 : Neural Network를 이용하여 우월 움직임 데이터를 분석하고 NN학습과 파인튜닝을 하여 상위권 랭크
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
