@@ -19,8 +19,9 @@
 
 # 2. 프로젝트
 
-### ① 자원제약 환경용 PST·NNUE 하이브리드 체스 AI 설계 및 모델 개발
-- **주요내용** — 평가함수 4종(PST, NN V1·V2, NNUE)과 탐색 알고리즘 2종(α-β·MCTS)을 조합·비교하여, CPU·오프라인 환경에서 동작하는 PST·NNUE 하이브리드 체스 AI를 설계 및 모델 구현
+### ① 저사양 환경을 위한 체스 평가함수 구성: PST/NNUE 하이브리드의 구현과 성능 검증
+- **주요내용** — PST와 직접 학습한 NNUE를 비율 r 로 섞는 하이브리드 평가함수를 구현하고, 자체 대국과 lichess 실전 대국으로 저사양 환경에서 가장 나은 구성임을 검증
+  <br>인터넷·설치 없이 동작하는 단일 실행파일로 만들어 윈도우·리눅스·macOS에 배포
 - **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-Hybrid](https://github.com/goodpjw2008/Project_AI-ChessBot-Hybrid)
 
 ### ② 체스에 관한 인공지능과 알고리즘 탐구(탐색 알고리즘 및 PST 모델 개선)
