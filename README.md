@@ -23,6 +23,7 @@
 - **주요내용** — PST와 직접 학습한 NNUE를 비율 r 로 섞는 하이브리드 평가함수를 구현하고, 자체 대국과 lichess 실전 대국으로 저사양 환경에서 가장 나은 구성임을 검증
   <br>인터넷·설치 없이 동작하는 단일 실행파일로 만들어 윈도우·리눅스·macOS에 배포
 - **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-Hybrid](https://github.com/goodpjw2008/Project_AI-ChessBot-Hybrid)
+- **모두의 체스 다운로드** — [Windows (x64)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-windows-x64.zip) · [Linux (x64)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-linux-x64.tar.gz) · [Linux (ARM64)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-linux-aarch64.tar.gz) · [macOS (Intel·Apple Silicon)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-macos.tar.gz)
 
 ### ② 체스에 관한 인공지능과 알고리즘 탐구(탐색 알고리즘 및 PST 모델 개선)
 - **주요내용** — 체스 인공지능에 BFS·Minimax·α-β 가지치기 등 휴리스틱 알고리즘을 개선하고 PST 평가 모델을 개선하여 성능을 비교
