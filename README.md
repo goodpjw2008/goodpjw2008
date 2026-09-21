@@ -19,22 +19,27 @@
 
 # 2. 프로젝트
 
-### ① 저사양 환경을 위한 체스 평가함수 구성: PST/NNUE 하이브리드의 구현과 성능 검증
+### ① AI 우회전 참교육 - 우회전과 어린이보호구역 안전운전 참교육
+- **주요내용** — AI를 활용하여 안전한 우회전과 어린이 보호구역 운전을 도와주는 안전운전 시뮬레이터
+- **저장소** — [github.com/goodpjw2008/Project_AI-TurnRight](https://github.com/goodpjw2008/Project_AI-TurnRight)
+- **서비스 주소** — [safeturn.vercel.app](https://safeturn.vercel.app)
+
+### ② 저사양 환경을 위한 체스 평가함수 구성: PST/NNUE 하이브리드의 구현과 성능 검증
 - **주요내용** — PST와 직접 학습한 NNUE를 비율 r 로 섞는 하이브리드 평가함수를 구현하고, 자체 대국과 lichess 실전 대국으로 저사양 환경에서 가장 나은 구성임을 검증
   <br>인터넷·설치 없이 동작하는 단일 실행파일로 만들어 윈도우·리눅스·macOS에 배포
 - **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-Hybrid](https://github.com/goodpjw2008/Project_AI-ChessBot-Hybrid)
 - **모두의 체스 다운로드** — [Windows (x64)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-windows-x64.zip) · [Linux (x64)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-linux-x64.tar.gz) · [Linux (ARM64)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-linux-aarch64.tar.gz) · [macOS (Intel·Apple Silicon)](https://github.com/goodpjw2008/goodpjw2008/raw/main/download/allchess-macos.tar.gz)
 
-### ② 체스에 관한 인공지능과 알고리즘 탐구(탐색 알고리즘 및 PST 모델 개선)
+### ③ 체스에 관한 인공지능과 알고리즘 탐구(탐색 알고리즘 및 PST 모델 개선)
 - **주요내용** — 체스 인공지능에 BFS·Minimax·α-β 가지치기 등 휴리스틱 알고리즘을 개선하고 PST 평가 모델을 개선하여 성능을 비교
 - **저장소** — [github.com/goodpjw2008/Project_AI-ChessBot-PST](https://github.com/goodpjw2008/Project_AI-ChessBot-PST)
 
-### ③ AI 봇 2종 구현 및 국제 플랫폼 최상위권 성적 달성
+### ④ AI 봇 2종 구현 및 국제 플랫폼 최상위권 성적 달성
 - **주요내용** — 글로벌 AI·코딩 Bot 경진 플랫폼 CodinGame에서 직접 설계한 AI 봇 2종으로 한국 1위, 글로벌 Top 0.2% 달성, AI 부문과 Coding Speed 부문에서 Legend 등급
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **저장소** — [github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
-### ④ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.24(일) 기준)
+### ⑤ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.24(일) 기준)
 - [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 111/3158 (상위 3.5%, 은메달)
   - 대회개요 : 우주 위성 자원 점령 AI 멀티에이전트 대결
   - 데이터학습 및 AI 기법 : Neural Network를 이용하여 우월 움직임 데이터를 분석하고 NN학습과 파인튜닝을 하여 상위권 랭크
@@ -75,7 +80,7 @@
 
   </details>
 
-### ⑤ AI 코딩 선생님과 함께하는 온라인 코딩 학습 플랫폼 구현
+### ⑥ AI 코딩 선생님과 함께하는 온라인 코딩 학습 플랫폼 구현
 - **주요내용** — 생성형 AI 코딩 선생님이 도와주는 중·고등학생용 온라인 저지(OJ) 학습 플랫폼 개발
 - **프로젝트보고서** — [AI_코딩_선생님과_함께하는_온라인_코딩_학습_플랫폼_구현.pdf](./projects/AI_코딩_선생님과_함께하는_온라인_코딩_학습_플랫폼_구현.pdf)
 - **저장소** — [github.com/goodpjw2008/Project_AI-DimiOJ](https://github.com/goodpjw2008/Project_AI-DimiOJ)
