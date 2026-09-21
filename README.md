@@ -70,7 +70,56 @@
 
 # 2. 수상이력
 
-### ① 2026 — 아시아·태평양 정보올림피아드(APIO) (국내 7등, 정보올림피아드)
+### ① 2026 — 제3회 국제인공지능올림피아드(IOAI) 개인전 동메달 · 팀 챌린지 9위
+- International Olympiad in Artificial Intelligence (2026.8.2~8.8, 카자흐스탄 아스타나), 개인전 동메달, 팀 챌린지 한국 대표단 9위
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./awards/ioai_bronze_medel.png" alt="IOAI 2026 대한민국 대표단" width="720"/>
+
+<img src="./awards/ioai_bronze_model2.png" alt="IOAI 개인전 동메달 및 팀 챌린지 9위" width="720"/>
+
+</details>
+
+### ② 2026 — 제3회 국제인공지능올림피아드(IOAI) 국가대표 선발
+- 제3회 국제인공지능올림피아드 대한민국 국가대표 인정 (한국인공지능올림피아드 조직위원회)
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./awards/ioai_selection.png" alt="IOAI 국가대표 인증서" width="720"/>
+
+</details>
+
+### ③ 2026 — 한국인공지능올림피아드(KOAI) 은상
+- 한국인공지능올림피아드 2026 고등부 은상 (한국인공지능올림피아드 조직위원회, 한국정보기술진흥원)
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./awards/koai_silver.png" alt="KOAI 고등부 은상" width="720"/>
+
+</details>
+
+### ④ 2026 — NYPC 본선 은상(3위)
+- 2026 NEXON YOUNG PROGRAMMERS CUP Rookie Track 본선(Final Round) Silver(3위), 넥슨코리아·넥슨재단 주최
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./awards/nypc_silver.png" alt="NYPC 본선 Silver 인증서" width="720"/>
+
+<img src="./awards/nypc_silver2.png" alt="NYPC 리더보드 및 수상" width="720"/>
+
+</details>
+
+### ⑤ 2026 — 제7회 청소년 IT경시대회 인공지능 부문 금상(3위)
+- 2026 제7회 청소년 IT경시대회 인공지능 청소년부 금상, 한국정보기술진흥원 주최
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./awards/it_contest_ai_gold.png" alt="청소년 IT경시대회 인공지능 금상" width="720"/>
+
+</details>
+
+### ⑥ 2026 — 아시아·태평양 정보올림피아드(APIO) (국내 7등, 정보올림피아드)
 - 국내: 7등, 국제: 95등, Asia-Pacific Informatics Olympiad 아태지역 알고리즘 대회
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -79,7 +128,7 @@
 
 </details>
 
-### ② 2026 — 청소년 IT 경시대회 알고리즘 고등부 금상(3등, 한국정보기술진흥원)
+### ⑦ 2026 — 청소년 IT 경시대회 알고리즘 고등부 금상(3등, 한국정보기술진흥원)
 - 제6회 청소년 IT 경시대회 (알고리즘 고등부), 알고리즘 설계 및 구현 능력 평가
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -88,7 +137,7 @@
 
 </details>
 
-### ③ 2025 — K-EDU 창의력 경진대회 대상(1등, 과학기술정보통신부장관)
+### ⑧ 2025 — K-EDU 창의력 경진대회 대상(1등, 과학기술정보통신부장관)
 - AI·SW 기반 창의 문제 해결 프로젝트 수행, 아이디어 기획 및 구현 과정 참여, 컴퓨팅 사고력과 문제 해결
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -97,7 +146,7 @@
 
 </details>
 
-### ④ 2025 — 청소년 IT 경시대회 알고리즘 고등부 금상(3등, 한국정보기술진흥원)
+### ⑨ 2025 — 청소년 IT 경시대회 알고리즘 고등부 금상(3등, 한국정보기술진흥원)
 - 제4회 청소년 IT 경시대회 (알고리즘 고등부), 알고리즘 설계 및 구현 능력 평가
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -106,7 +155,7 @@
 
 </details>
 
-### ⑤ 2025 — 한국정보올림피아드(KOI) 2차 고등부 (은상, 정보올림피아드위원회위원장)
+### ⑩ 2025 — 한국정보올림피아드(KOI) 2차 고등부 (은상, 정보올림피아드위원회위원장)
 - 제42회 한국정보올림피아드(KOI) 2차, 자료구조와 다양한 알고리즘 기반 문제 해결 수행, 시간 복잡도 최적화 등
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -115,7 +164,7 @@
 
 </details>
 
-### ⑥ 2025 — ICT 어워드 코리아 이산수학 고등부 (은상, 3등, 한국정보처리학회회장)
+### ⑪ 2025 — ICT 어워드 코리아 이산수학 고등부 (은상, 3등, 한국정보처리학회회장)
 - 제22회 ICT 어워드 코리아 (이산수학 고등부), 이산수학 및 논리적 사고 기반 문제 해결, 수학적 모델링과 컴퓨팅 사고력 활용, 알고리즘적 접근
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -124,8 +173,8 @@
 
 </details>
 
-### ⑦ 2025 — 한국정보올림피아드(KOI) 2차 고등부 (동상, 정보올림피아드위원회위원장)
-- 제42회 한국정보올림피아드(KOI) 2차, 자료구조와 다양한 알고리즘 기반 문제 해결 수행, 시간 복잡도 최적화 등
+### ⑫ 2024 — 한국정보올림피아드(KOI) 2차 고등부 (동상, 정보올림피아드위원회위원장)
+- 제41회 한국정보올림피아드(KOI) 2차, 자료구조와 다양한 알고리즘 기반 문제 해결 수행, 시간 복잡도 최적화 등
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
@@ -133,7 +182,7 @@
 
 </details>
 
-### ⑧ 2024 — 프로그래밍 학력우수상 (한국디지털미디어고등학교장)
+### ⑬ 2024 — 프로그래밍 학력우수상 (한국디지털미디어고등학교장)
 - 2024학년도 2학기 프로그래밍 학력우수상, 프로그래밍 과목 우수 성취, 알고리즘 및 코딩 역량 강화
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -142,7 +191,7 @@
 
 </details>
 
-### ⑨ 2023 — 신세계-KAIST 사이언스 올림피아드 (최우수상, 2등, 주식회사 대전신세계)
+### ⑭ 2023 — 신세계-KAIST 사이언스 올림피아드 (최우수상, 2등, 주식회사 대전신세계)
 - 신세계-KAIST 사이언스 올림피아드 중등부 최우수상, 로봇 코딩분야, 과학·수학 기반 융합 사고력, 창의적 문제 해결 경험
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -151,7 +200,7 @@
 
 </details>
 
-### ⑩ 2023 — 교내 창의발명탐구활동 (우수상, 문성중학교장)
+### ⑮ 2023 — 교내 창의발명탐구활동 (우수상, 문성중학교장)
 - 창의적 아이디어 탐구 및 문제 해결 활동 참여, 다양한 관점에서 아이디어를 구체화하는 경험 수행
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -160,7 +209,7 @@
 
 </details>
 
-### ⑪ 2021 — 교내 창의컴퓨팅대회 (최우수상, 1등, 성남서중학교장)
+### ⑯ 2021 — 교내 창의컴퓨팅대회 (최우수상, 1등, 성남서중학교장)
 - 컴퓨팅 사고력 기반 문제 해결 프로젝트 수행, 프로그래밍 및 논리적 사고 능력 강화, 창의적 접근을 통한 알고리즘 구현 역량
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -169,7 +218,7 @@
 
 </details>
 
-### ⑫ 2021 — 한국수학학력평가연구원(KMA) (금상, 한국수학학력평가원장)
+### ⑰ 2021 — 한국수학학력평가연구원(KMA) (금상, 한국수학학력평가원장)
 - 수학적 사고력 및 문제 해결 능력 우수, 논리적 접근과 분석 능력 강화, 수학 기반 컴퓨팅 역량 향상
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
