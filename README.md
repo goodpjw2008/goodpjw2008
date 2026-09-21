@@ -244,7 +244,16 @@
 
 # 4. 관련 학습이력
 
-### ① 2026 — 구글 머신러닝 단기집중과정 (Neural networks 등 13개 코스)
+### ① 2026 — 한국인공지능올림피아드(KOAI) 여름학교
+- 2026.07.11 ~ 07.26 전 과정 수료, 인공지능·머신러닝 심화 이론 및 실습, AI 올림피아드 대비 문제 해결 역량 강화
+
+<details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+<img src="./learning/koai_summer_camp.png" alt="KOAI 여름학교 수료증" width="720"/>
+
+</details>
+
+### ② 2026 — 구글 머신러닝 단기집중과정 (Neural networks 등 13개 코스)
 - 머신러닝 핵심 개념 학습, 모델 학습 및 데이터 활용 이해
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -253,7 +262,7 @@
 
 </details>
 
-### ② 2026 — Kaggle Learn 교육과정 (Intermediate Machine Learning 등 14개 코스)
+### ③ 2026 — Kaggle Learn 교육과정 (Intermediate Machine Learning 등 14개 코스)
 - Python 및 데이터 분석 학습, 머신러닝 실습 과정 수행
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -262,7 +271,7 @@
 
 </details>
 
-### ③ 2026 — 국제정보올림피아드(IOI) 겨울학교
+### ④ 2026 — 국제정보올림피아드(IOI) 겨울학교
 - 심화 알고리즘 및 논리적 문제 해결 훈련, 효율적인 코드 구현 및 사고력 강화, 경쟁 프로그래밍 기반 학습 경험
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -271,7 +280,7 @@
 
 </details>
 
-### ④ 2025 — 국제정보올림피아드(IOI) 여름학교
+### ⑤ 2025 — 국제정보올림피아드(IOI) 여름학교
 - 알고리즘 및 문제 해결 기초 학습, 자료구조와 구현 중심 프로그래밍 경험, PS(Problem Solving) 역량 강화
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -280,7 +289,7 @@
 
 </details>
 
-### ⑤ 2023 — KAIST 사이버영재교육 데이터사이언스 과정
+### ⑥ 2023 — KAIST 사이버영재교육 데이터사이언스 과정
 - A등급: 90점 / 학급 평균: 56점, Python과 오픈데이터를 활용한 데이터 분석 학습, 데이터 전처리 및 시각화 기초 경험
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -289,7 +298,7 @@
 
 </details>
 
-### ⑥ 2023 — 청소년을 위한 AI 미니클래스
+### ⑦ 2023 — 청소년을 위한 AI 미니클래스
 - 인공지능 기초 개념 및 활용 사례 학습, AI 기반 문제 해결 과정과 머신러닝 원리 탐구, 데이터와 알고리즘 중심 사고 경험
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
@@ -298,7 +307,7 @@
 
 </details>
 
-### ⑦ 2021 — 비버챌린지(컴퓨팅 및 알고리즘 사고 향상교육)
+### ⑧ 2021 — 비버챌린지(컴퓨팅 및 알고리즘 사고 향상교육)
 - 컴퓨팅 사고력 기반 문제 해결 활동 참여, 알고리즘적 사고와 논리적 분석 경험, 다양한 유형의 정보과학 문제 탐구
 
 <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
