@@ -23,6 +23,10 @@
 - **주요내용** — AI를 활용하여 레벨업을 하며 안전운전 마스터를 목표로 합니다. 이번 편은 가장 헷갈리고 지키기 어려운 우회전과 어린이보호구역 신호 없는 횡단보도 일시정지를 집중 훈련합니다.
 - **저장소** — [https://github.com/goodpjw2008/Project_AI-SafeDriveLevelup](https://github.com/goodpjw2008/Project_AI-SafeDriveLevelup)
 - **서비스 주소** — [https://safedrive.ai.kr](https://safedrive.ai.kr)
+- **QR코드** — 휴대폰 카메라로 찍으면 설치 없이 바로 연습할 수 있습니다
+
+  <a href="https://safedrive.ai.kr"><img src="./projects/qr-safedrive.png" alt="safedrive.ai.kr 로 바로 가는 QR코드" width="150"/></a>
+
 
 ### ② 저사양 환경을 위한 체스 평가함수 구성: PST/NNUE 하이브리드의 구현과 성능 검증
 - **주요내용** — PST와 직접 학습한 NNUE를 비율 r 로 섞는 하이브리드 평가함수를 구현하고, 자체 대국과 lichess 실전 대국으로 저사양 환경에서 가장 나은 구성임을 검증
