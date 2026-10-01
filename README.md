@@ -62,6 +62,17 @@
 
   </details>
 
+- [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 578/10246 (상위 5.6%, 진행 중)
+  - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="720"/>
+
+  <img src="./projects/Kaggle_Kaggriculture_Leaderboard.png" alt="Kaggle Kaggriculture 리더보드" width="720"/>
+
+  </details>
+
 - [KOAI 2026 국가대표 선발전 P1](https://www.kaggle.com/competitions/koai-2026-p-1) 2/11
   - 대회개요 : 한국인공지능올림피아드 국가대표 선발전, 구독 서비스 이탈 예측
 
