@@ -43,30 +43,19 @@
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **저장소** — [https://github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
-### ⑤ Kaggle(캐글) 대회 현재 참여 프로젝트 성적 (2026.5.24(일) 기준)
-- [Orbit War](https://www.kaggle.com/competitions/orbit-wars) 111/3158 (상위 3.5%, 은메달)
-  - 대회개요 : 우주 위성 자원 점령 AI 멀티에이전트 대결
-  - 데이터학습 및 AI 기법 : Neural Network를 이용하여 우월 움직임 데이터를 분석하고 NN학습과 파인튜닝을 하여 상위권 랭크
+### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.1(목) 기준)
+- [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) 21/3575 (상위 0.6%)
+  - 대회개요 : Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
-  <img src="./projects/Kaggle_Orbit_War.png" alt="Kaggle Orbit War" width="720"/>
+  <img src="./projects/Kaggle_Predicting_EV.png" alt="Kaggle Predicting Electric Vehicle Purchases" width="720"/>
 
   </details>
 
-- [Connect X](https://www.kaggle.com/competitions/connectx) 5/405 (상위 1.2%)
-  - 대회개요 : Connect Four 게임 AI 봇 대결
-  - 데이터학습 및 AI 기법 : MCTS 기법 및 Neural Network를 사용하여 각 포지션의 유리함과 불림함 데이터 분석을 사용하여 상위권 랭크
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
-
-  <img src="./projects/Kaggle_ConnectX.png" alt="Kaggle Connect X" width="720"/>
-
-  </details>
-
-- [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) 42/2026 (상위 2.1%)
-  - 대회개요 : F1 그랑프리 피트스톱 횟수 예측 모델
-  - 데이터학습 및 AI 기법 : CatBoost, LightGBM, 피처엔지니어링의 나의 결과와 상위권의 데이터 분석 결과 분석 블랜딩 기법으로 상위권 랭크
+- [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) 222/3022 (상위 7.3%)
+  - 대회개요 : Playground Series Season 6 Episode 5, F1 그랑프리 피트스톱 횟수 예측 모델
+  - 데이터학습 및 AI 기법 : CatBoost, LightGBM, 피처엔지니어링의 나의 결과와 상위권의 데이터 분석 결과 분석 블랜딩 기법
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
@@ -74,13 +63,30 @@
 
   </details>
 
-- [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) 35/282 (상위 12.4%)
-  - 대회개요 : 두 LLM 응답 데이터를 PEFT 파인튜닝하여 인간 선호 예측
-  - 데이터학습 및 AI 기법 : Gemma-2-9B 4-bit QLoRA 부분 PEFT 파인튜닝
+- [KOAI 2026 국가대표 선발전 P1](https://www.kaggle.com/competitions/koai-2026-p-1) 2/11
+  - 대회개요 : 한국인공지능올림피아드 국가대표 선발전, 구독 서비스 이탈 예측
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
-  <img src="./projects/kaggle_LLM_Classification.png" alt="Kaggle LLM Classification Finetuning" width="720"/>
+  <img src="./projects/Kaggle_KOAI_2026_P1.png" alt="Kaggle KOAI 2026 국가대표 선발전 P1" width="720"/>
+
+  </details>
+
+- [KOAI 2026 국가대표 선발전 P4](https://www.kaggle.com/competitions/koai-2026-p-4) 5/11
+  - 대회개요 : 한국인공지능올림피아드 국가대표 선발전, 대출 부도 위험 예측
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_KOAI_2026_P4.png" alt="Kaggle KOAI 2026 국가대표 선발전 P4" width="720"/>
+
+  </details>
+
+- [Radar (IOAI 2025 Task 1) Mirror](https://www.kaggle.com/competitions/radar-ioai-2025) 4/131 (상위 3.1%, 진행 중)
+  - 대회개요 : IOAI 2025(중국 베이징) 개인전 Task 1 Radar 문제 미러 대회(비공식)
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_Radar_IOAI_2025.png" alt="Kaggle Radar (IOAI 2025 Task 1) Mirror" width="720"/>
 
   </details>
 
