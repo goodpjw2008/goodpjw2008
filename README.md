@@ -55,7 +55,6 @@
 
 - [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) 222/3022 (상위 7.3%)
   - 대회개요 : Playground Series Season 6 Episode 5, F1 그랑프리 피트스톱 횟수 예측 모델
-  - 데이터학습 및 AI 기법 : CatBoost, LightGBM, 피처엔지니어링의 나의 결과와 상위권의 데이터 분석 결과 분석 블랜딩 기법
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
