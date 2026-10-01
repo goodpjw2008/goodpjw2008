@@ -62,7 +62,7 @@
 
   </details>
 
-- [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 578/10246 (상위 5.6%, 진행 중)
+- [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 578/10246 (상위 5.6%, 동메달, 진행 중)
   - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
