@@ -43,7 +43,7 @@
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **저장소** — [https://github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
-### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.1(목) 기준)
+### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.2(금) 기준)
 - [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 507/10246 (상위 4.9%, 은메달, 진행 중)
   - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
 
