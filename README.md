@@ -44,6 +44,17 @@
 - **저장소** — [https://github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
 ### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.1(목) 기준)
+- [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 507/10246 (상위 4.9%, 은메달, 진행 중)
+  - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="720"/>
+
+  <img src="./projects/Kaggle_Kaggriculture_Leaderboard.png" alt="Kaggle Kaggriculture 리더보드" width="720"/>
+
+  </details>
+
 - [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) 21/3575 (상위 0.6%)
   - 대회개요 : Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델
 
@@ -59,17 +70,6 @@
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
 
   <img src="./projects/Kaggle_Predicting_F1.png" alt="Kaggle Predicting F1 Pit Stops" width="720"/>
-
-  </details>
-
-- [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 507/10246 (상위 4.9%, 은메달, 진행 중)
-  - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
-
-  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="720"/>
-
-  <img src="./projects/Kaggle_Kaggriculture_Leaderboard.png" alt="Kaggle Kaggriculture 리더보드" width="720"/>
 
   </details>
 
