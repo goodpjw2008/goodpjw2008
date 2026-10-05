@@ -102,15 +102,6 @@
 
   </details>
 
-- [Radar (IOAI 2025 Task 1) Mirror](https://www.kaggle.com/competitions/radar-ioai-2025) 4/131 (상위 3.1%, 진행 중)
-  - 대회개요 : IOAI 2025(중국 베이징) 개인전 Task 1 Radar 문제 미러 대회(비공식)
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
-
-  <img src="./projects/Kaggle_Radar_IOAI_2025.png" alt="Kaggle Radar (IOAI 2025 Task 1) Mirror" width="720"/>
-
-  </details>
-
 ### ⑥ AI 코딩 선생님과 함께하는 온라인 코딩 학습 플랫폼 구현
 - **주요내용** — 생성형 AI 코딩 선생님이 도와주는 중·고등학생용 온라인 저지(OJ) 학습 플랫폼 개발
 - **프로젝트보고서** — [AI_코딩_선생님과_함께하는_온라인_코딩_학습_플랫폼_구현.pdf](./projects/AI_코딩_선생님과_함께하는_온라인_코딩_학습_플랫폼_구현.pdf)
