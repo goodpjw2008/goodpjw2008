@@ -1,3 +1,5 @@
+**한국어** | [English](./README.en.md)
+
 # AI 활동 포트폴리오
 
 **박진우(Jinwoo Park)** · 한국디지털미디어고등학교 · [goodpjw2008@gmail.com](mailto:goodpjw2008@gmail.com)
