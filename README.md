@@ -55,6 +55,17 @@
 
   </details>
 
+- [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) 347/5168 (상위 6.7%, 동메달, 진행 중)
+  - 대회개요 : Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델
+
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="720"/>
+
+  <img src="./projects/Kaggle_RSNA_Knee_Leaderboard.png" alt="Kaggle RSNA Knee Abnormality Detection 리더보드" width="720"/>
+
+  </details>
+
 - [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) 21/3575 (상위 0.6%)
   - 대회개요 : Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델
 
