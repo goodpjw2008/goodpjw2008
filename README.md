@@ -46,7 +46,11 @@
 ### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.2(금) 기준)
 - [Kaggle 프로필 (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 1,204/60,408 (상위 2.0%), 동메달 6개
 
+  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
   <img src="./projects/Kaggle_Profile.png" alt="Kaggle 프로필 goodpjw2008" width="720"/>
+
+  </details>
 
 - [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 507/10246 (상위 4.9%, 은메달, 진행 중)
   - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
