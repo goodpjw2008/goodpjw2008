@@ -52,59 +52,44 @@
 
   </details>
 
-- [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) 507/10246 (상위 4.9%, 은메달, 진행 중)
-  - 대회개요 : Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결
+- 대회 참여 성적
+
+  | 대회 | 대회개요 | 순위 | 상위 | 메달 | 상태 |
+  |---|---|:---:|:---:|:---:|:---:|
+  | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결 | 507/10246 | 4.9% | 은메달 | 진행 중 |
+  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델 | 347/5168 | 6.7% | 동메달 | 진행 중 |
+  | [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델 | 21/3575 | 0.6% | - | 종료 |
+  | [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) | Playground Series Season 6 Episode 5, F1 그랑프리 피트스톱 횟수 예측 모델 | 222/3022 | 7.3% | - | 종료 |
+  | [KOAI 2026 국가대표 선발전 P1](https://www.kaggle.com/competitions/koai-2026-p-1) | 한국인공지능올림피아드 국가대표 선발전, 구독 서비스 이탈 예측 | 2/11 | - | - | 종료 |
+  | [KOAI 2026 국가대표 선발전 P4](https://www.kaggle.com/competitions/koai-2026-p-4) | 한국인공지능올림피아드 국가대표 선발전, 대출 부도 위험 예측 | 5/11 | - | - | 종료 |
 
   <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+
+  **Kaggriculture**
 
   <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="720"/>
 
   <img src="./projects/Kaggle_Kaggriculture_Leaderboard.png" alt="Kaggle Kaggriculture 리더보드" width="720"/>
 
-  </details>
-
-- [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) 347/5168 (상위 6.7%, 동메달, 진행 중)
-  - 대회개요 : Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+  **RSNA Knee Abnormality Detection**
 
   <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="720"/>
 
   <img src="./projects/Kaggle_RSNA_Knee_Leaderboard.png" alt="Kaggle RSNA Knee Abnormality Detection 리더보드" width="720"/>
 
-  </details>
-
-- [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) 21/3575 (상위 0.6%)
-  - 대회개요 : Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+  **Predicting Electric Vehicle Purchases**
 
   <img src="./projects/Kaggle_Predicting_EV.png" alt="Kaggle Predicting Electric Vehicle Purchases" width="720"/>
 
-  </details>
-
-- [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) 222/3022 (상위 7.3%)
-  - 대회개요 : Playground Series Season 6 Episode 5, F1 그랑프리 피트스톱 횟수 예측 모델
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+  **Predicting F1 Pit Stops**
 
   <img src="./projects/Kaggle_Predicting_F1.png" alt="Kaggle Predicting F1 Pit Stops" width="720"/>
 
-  </details>
-
-- [KOAI 2026 국가대표 선발전 P1](https://www.kaggle.com/competitions/koai-2026-p-1) 2/11
-  - 대회개요 : 한국인공지능올림피아드 국가대표 선발전, 구독 서비스 이탈 예측
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+  **KOAI 2026 국가대표 선발전 P1**
 
   <img src="./projects/Kaggle_KOAI_2026_P1.png" alt="Kaggle KOAI 2026 국가대표 선발전 P1" width="720"/>
 
-  </details>
-
-- [KOAI 2026 국가대표 선발전 P4](https://www.kaggle.com/competitions/koai-2026-p-4) 5/11
-  - 대회개요 : 한국인공지능올림피아드 국가대표 선발전, 대출 부도 위험 예측
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+  **KOAI 2026 국가대표 선발전 P4**
 
   <img src="./projects/Kaggle_KOAI_2026_P4.png" alt="Kaggle KOAI 2026 국가대표 선발전 P4" width="720"/>
 
