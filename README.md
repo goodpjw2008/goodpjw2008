@@ -45,14 +45,10 @@
 - **프로젝트보고서** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **저장소** — [https://github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
-### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.12(월) 기준)
-- [Kaggle 프로필 (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 497/60,098 (상위 0.8%), 은메달 1개 · 동메달 9개
-
-  <details><summary>$\color{#0969da}{\textsf{증빙보기}}$</summary>
+### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.16(금) 기준)
+- [Kaggle 프로필 (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 399/59,950 (상위 0.7%), 금메달 1개 · 은메달 1개 · 동메달 9개
 
   <img src="./projects/Kaggle_Profile.png" alt="Kaggle 프로필 goodpjw2008" width="720"/>
-
-  </details>
 
 - 주요 대회 참여 성적
 

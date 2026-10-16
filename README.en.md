@@ -45,14 +45,10 @@
 - **Project report (Korean)** — [AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf](./projects/AI_봇_2종_구현_및_국제_플랫폼_최상위권_성적_달성.pdf)
 - **Repository** — [https://github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
-### ⑤ Kaggle Competition Results (as of Oct 12, 2026)
-- [Kaggle profile (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 497/60,098 (top 0.8%), 1 silver · 9 bronze medals
-
-  <details><summary>$\color{#0969da}{\textsf{View evidence}}$</summary>
+### ⑤ Kaggle Competition Results (as of Oct 16, 2026)
+- [Kaggle profile (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 399/59,950 (top 0.7%), 1 gold · 1 silver · 9 bronze medals
 
   <img src="./projects/Kaggle_Profile.png" alt="Kaggle profile goodpjw2008" width="720"/>
-
-  </details>
 
 - Major competition results
 
