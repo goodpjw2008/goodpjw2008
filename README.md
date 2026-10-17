@@ -54,8 +54,8 @@
 
   | 대회 | 대회개요 | 순위 | 상위 | 메달 | 상태 |
   |---|---|:---:|:---:|:---:|:---:|
-  | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결 | 507/10246 | 4.9% | 은메달 | 진행 중 |
-  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델 | 347/5168 | 6.7% | 동메달 | 진행 중 |
+  | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결 | 508/10148 | 5.0% | 동메달 | 종료 |
+  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델 | 443/6156 | 7.2% | 동메달 | 진행 중 |
   | [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델 | 21/3575 | 0.6% | - | 종료 |
   | [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) | Playground Series Season 6 Episode 5, F1 그랑프리 피트스톱 횟수 예측 모델 | 222/3022 | 7.3% | - | 종료 |
   | [KOAI 2026 국가대표 선발전 P1](https://www.kaggle.com/competitions/koai-2026-p-1) | 한국인공지능올림피아드 국가대표 선발전, 구독 서비스 이탈 예측 | 2/11 | - | - | 종료 |
@@ -65,15 +65,11 @@
 
   **Kaggriculture**
 
-  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="720"/>
-
-  <img src="./projects/Kaggle_Kaggriculture_Leaderboard.png" alt="Kaggle Kaggriculture 리더보드" width="720"/>
+  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="390"/>
 
   **RSNA Knee Abnormality Detection**
 
-  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="720"/>
-
-  <img src="./projects/Kaggle_RSNA_Knee_Leaderboard.png" alt="Kaggle RSNA Knee Abnormality Detection 리더보드" width="720"/>
+  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
 
   **Predicting Electric Vehicle Purchases**
 

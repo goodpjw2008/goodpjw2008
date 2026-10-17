@@ -54,8 +54,8 @@
 
   | Competition | Overview | Rank | Top | Medal | Status |
   |---|---|:---:|:---:|:---:|:---:|
-  | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition; AI agents compete to maximize income in a farming simulation | 507/10246 | 4.9% | Silver | Ongoing |
-  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition; a model that detects knee abnormalities from multimodal imaging data | 347/5168 | 6.7% | Bronze | Ongoing |
+  | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition; AI agents compete to maximize income in a farming simulation | 508/10148 | 5.0% | Bronze | Ended |
+  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition; a model that detects knee abnormalities from multimodal imaging data | 443/6156 | 7.2% | Bronze | Ongoing |
   | [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | Playground Series Season 6 Episode 9; predicting whether a customer buys an electric vehicle | 21/3575 | 0.6% | - | Ended |
   | [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) | Playground Series Season 6 Episode 5; predicting the number of pit stops in F1 Grands Prix | 222/3022 | 7.3% | - | Ended |
   | [KOAI 2026 National Team Selection P1](https://www.kaggle.com/competitions/koai-2026-p-1) | Korea AI Olympiad national team selection; predicting subscription service churn | 2/11 | - | - | Ended |
@@ -65,15 +65,11 @@
 
   **Kaggriculture**
 
-  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="720"/>
-
-  <img src="./projects/Kaggle_Kaggriculture_Leaderboard.png" alt="Kaggle Kaggriculture leaderboard" width="720"/>
+  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="390"/>
 
   **RSNA Knee Abnormality Detection**
 
-  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="720"/>
-
-  <img src="./projects/Kaggle_RSNA_Knee_Leaderboard.png" alt="Kaggle RSNA Knee Abnormality Detection leaderboard" width="720"/>
+  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
 
   **Predicting Electric Vehicle Purchases**
 
