@@ -55,7 +55,8 @@
   | Competition | Overview | Rank | Top | Medal | Status |
   |---|---|:---:|:---:|:---:|:---:|
   | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition; AI agents compete to maximize income in a farming simulation | 508/10148 | 5.0% | Bronze | Ended |
-  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition; a model that detects knee abnormalities from multimodal imaging data | 443/6156 | 7.2% | Bronze | Ongoing |
+  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition; a model that detects knee abnormalities from multimodal imaging data | 289/6358 | 4.5% | Silver | Ongoing |
+  | [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | Playground Series Season 6 Episode 10; predicting airline passenger satisfaction | 46/2644 | 1.7% | - | Ongoing |
   | [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | Playground Series Season 6 Episode 9; predicting whether a customer buys an electric vehicle | 21/3575 | 0.6% | - | Ended |
   | [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) | Playground Series Season 6 Episode 5; predicting the number of pit stops in F1 Grands Prix | 222/3022 | 7.3% | - | Ended |
   | [KOAI 2026 National Team Selection P1](https://www.kaggle.com/competitions/koai-2026-p-1) | Korea AI Olympiad national team selection; predicting subscription service churn | 2/11 | - | - | Ended |
@@ -70,6 +71,10 @@
   **RSNA Knee Abnormality Detection**
 
   <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
+
+  **Predicting Airline Satisfaction**
+
+  <img src="./projects/Kaggle_Predicting_Airline.png" alt="Kaggle Predicting Airline Satisfaction" width="333"/>
 
   **Predicting Electric Vehicle Purchases**
 
