@@ -48,7 +48,7 @@
 ### ⑤ Kaggle(캐글) 대회 참여 프로젝트 성적 (2026.10.22(목) 기준)
 - [Kaggle 프로필 (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 191/59,570 (상위 0.3%), 금메달 1개 · 은메달 1개 · 동메달 10개
 
-  <img src="./projects/Kaggle_Profile.png" alt="Kaggle 프로필 goodpjw2008" width="720"/>
+  <img src="./projects/Kaggle_Profile_20261022.png" alt="Kaggle 프로필 goodpjw2008" width="720"/>
 
 - 주요 대회 참여 성적
 
@@ -66,11 +66,11 @@
 
   **Kaggriculture**
 
-  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="390"/>
+  <img src="./projects/Kaggle_Kaggriculture_20261018.png" alt="Kaggle Kaggriculture" width="390"/>
 
   **RSNA Knee Abnormality Detection**
 
-  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
+  <img src="./projects/Kaggle_RSNA_Knee_20261022.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
 
   **Predicting Airline Satisfaction**
 

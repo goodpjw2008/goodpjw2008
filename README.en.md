@@ -48,7 +48,7 @@
 ### ⑤ Kaggle Competition Results (as of Oct 22, 2026)
 - [Kaggle profile (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Notebooks Expert, 191/59,570 (top 0.3%), 1 gold · 1 silver · 10 bronze medals
 
-  <img src="./projects/Kaggle_Profile.png" alt="Kaggle profile goodpjw2008" width="720"/>
+  <img src="./projects/Kaggle_Profile_20261022.png" alt="Kaggle profile goodpjw2008" width="720"/>
 
 - Major competition results
 
@@ -66,11 +66,11 @@
 
   **Kaggriculture**
 
-  <img src="./projects/Kaggle_Kaggriculture.png" alt="Kaggle Kaggriculture" width="390"/>
+  <img src="./projects/Kaggle_Kaggriculture_20261018.png" alt="Kaggle Kaggriculture" width="390"/>
 
   **RSNA Knee Abnormality Detection**
 
-  <img src="./projects/Kaggle_RSNA_Knee.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
+  <img src="./projects/Kaggle_RSNA_Knee_20261022.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
 
   **Predicting Airline Satisfaction**
 
