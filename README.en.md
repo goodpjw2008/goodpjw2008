@@ -46,9 +46,9 @@
 - **Repository** — [https://github.com/goodpjw2008/Project_AI-Bots-CodinGame](https://github.com/goodpjw2008/Project_AI-Bots-CodinGame)
 
 ### ⑤ Kaggle Competition Results (as of Oct 28, 2026)
-- [Kaggle profile (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Competitions Expert (1 silver · 1 bronze medal), Notebooks Expert 184/59,179 (top 0.3%; 1 gold · 1 silver · 10 bronze medals)
+- [Kaggle profile (goodpjw2008)](https://www.kaggle.com/goodpjw2008) — Competitions Expert 3,299/225,034 (top 1.5%; 1 silver · 1 bronze medal), Notebooks Expert 183/59,218 (top 0.3%; 1 gold · 1 silver · 10 bronze medals)
 
-  <img src="./projects/Kaggle_Profile_20261028.png" alt="Kaggle profile goodpjw2008" width="720"/>
+  <img src="./projects/Kaggle_Profile_20261028_2.png" alt="Kaggle profile goodpjw2008" width="720"/>
 
 - Major competition results
 
