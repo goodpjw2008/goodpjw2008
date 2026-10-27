@@ -55,7 +55,7 @@
   | 대회 | 대회개요 | 순위 | 상위 | 메달 | 상태 |
   |---|---|:---:|:---:|:---:|:---:|
   | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition, 농장 시뮬레이션에서 수입을 극대화하는 AI 에이전트 대결 | 508/10148 | 5.0% | 동메달 | 종료 |
-  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델 | 289/6358 | 4.5% | 은메달 | 진행 중 |
+  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition, 다중 모달 영상 데이터로 무릎 이상 소견을 검출하는 모델 | 268/6300 | 4.3% | 은메달 | 종료 |
   | [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | Playground Series Season 6 Episode 10, 항공 승객 만족도 예측 모델 | 46/2644 | 1.7% | - | 진행 중 |
   | [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | Playground Series Season 6 Episode 9, 전기차 구매 여부 예측 모델 | 21/3575 | 0.6% | - | 종료 |
   | [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) | Playground Series Season 6 Episode 5, F1 그랑프리 피트스톱 횟수 예측 모델 | 222/3022 | 7.3% | - | 종료 |
@@ -70,7 +70,7 @@
 
   **RSNA Knee Abnormality Detection**
 
-  <img src="./projects/Kaggle_RSNA_Knee_20261022.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
+  <img src="./projects/Kaggle_RSNA_Knee_20261028.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
 
   **Predicting Airline Satisfaction**
 

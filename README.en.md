@@ -55,7 +55,7 @@
   | Competition | Overview | Rank | Top | Medal | Status |
   |---|---|:---:|:---:|:---:|:---:|
   | [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture) | Featured Simulation Competition; AI agents compete to maximize income in a farming simulation | 508/10148 | 5.0% | Bronze | Ended |
-  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition; a model that detects knee abnormalities from multimodal imaging data | 289/6358 | 4.5% | Silver | Ongoing |
+  | [RSNA Knee Abnormality Detection](https://www.kaggle.com/competitions/rsna-knee-abnormality-detection) | Research Code Competition; a model that detects knee abnormalities from multimodal imaging data | 268/6300 | 4.3% | Silver | Ended |
   | [Predicting Airline Satisfaction](https://www.kaggle.com/competitions/playground-series-s6e10) | Playground Series Season 6 Episode 10; predicting airline passenger satisfaction | 46/2644 | 1.7% | - | Ongoing |
   | [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | Playground Series Season 6 Episode 9; predicting whether a customer buys an electric vehicle | 21/3575 | 0.6% | - | Ended |
   | [Predicting F1 Pit Stops](https://www.kaggle.com/competitions/playground-series-s6e5) | Playground Series Season 6 Episode 5; predicting the number of pit stops in F1 Grands Prix | 222/3022 | 7.3% | - | Ended |
@@ -70,7 +70,7 @@
 
   **RSNA Knee Abnormality Detection**
 
-  <img src="./projects/Kaggle_RSNA_Knee_20261022.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
+  <img src="./projects/Kaggle_RSNA_Knee_20261028.png" alt="Kaggle RSNA Knee Abnormality Detection" width="390"/>
 
   **Predicting Airline Satisfaction**
 
